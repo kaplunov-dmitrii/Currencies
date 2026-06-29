@@ -1,3 +1,4 @@
 .vs/
 bin/
 obj/
+id_ed25519*
